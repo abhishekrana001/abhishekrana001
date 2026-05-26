@@ -10,7 +10,9 @@
 ---
 
 ## 🛠️ Skills
+- Java
 - Kotlin
+- DSA (Data Structure And Algorithm)
 - Android Studio
 - XML
 - Firebase
