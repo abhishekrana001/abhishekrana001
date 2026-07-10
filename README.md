@@ -1,28 +1,30 @@
 <img width="100%" alt="Java Spring Boot Developer Banner" src="https://github.com/user-attachments/assets/59ffa4de-def1-4273-9659-f441389d873c"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Android+Developer;Always+Learning+New+Technologies" />
 </p>
 
 # Hi 👋, I'm Abhishek Rana
 
-## 🚀 Java Backend Developer
+## 🚀 Java Backend Developer | Android Developer
 
 - 🌱 Currently learning **Spring Boot & Backend Development**
 - 💻 Building REST APIs using **Java, Spring Boot & MySQL**
+- 📱 Experienced in Android Development using **Kotlin**
 - 🔍 Practicing **Data Structures & Algorithms**
-- 🚀 Passionate about Backend Development and Problem Solving
+- 🚀 Passionate about building scalable applications
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,github,postman,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,kotlin,androidstudio,firebase,git,github,postman,idea" />
 </p>
 
 ### Languages
 - Java
+- Kotlin
 - SQL
 
 ### Backend
@@ -31,11 +33,20 @@
 - Hibernate
 - REST APIs
 
+### Android
+- Kotlin
+- Android Studio
+- XML
+- Firebase
+- MVVM
+- Room Database
+
 ### Database
 - MySQL
 
 ### Tools
 - IntelliJ IDEA
+- Android Studio
 - Postman
 - Git
 - GitHub
@@ -48,21 +59,33 @@
 
 # 📂 Projects
 
-### 🧑‍💼 Employee Management System
-- Spring Boot
+### 🧑‍💼 Employee Management System (Spring Boot)
+- REST APIs
+- CRUD Operations
 - Spring Data JPA
 - Hibernate
 - MySQL
-- CRUD REST APIs
 - DTO
 - Validation
 - Exception Handling
 - Pagination & Sorting
 
-### 📅 Event Management System
+### 📅 Event Management System (Android)
+- Kotlin
+- MVVM
+- Room Database
+- User & Admin Module
+
+### 🌦 Weather Forecast App
+- Kotlin
+- OpenWeather API
+- JSON Parsing
+
+### 📝 Notes App
 - Kotlin
 - Room Database
-- MVVM Architecture
+
+### 🎵 Music Player App
 - Android Studio
 
 ---
@@ -76,10 +99,10 @@
 
 ---
 
-# 📫 Connect with me
+# 📫 Connect with Me
 
 - GitHub: https://github.com/abhishekrana001
-- LinkedIn: (Add your LinkedIn URL)
+- LinkedIn: https://www.linkedin.com/in/abhishek-rana-28872a294/
 
 ---
 
