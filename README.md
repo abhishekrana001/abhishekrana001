@@ -1,4 +1,5 @@
-<img width="100%" alt="Java Spring Boot Developer Banner" src="https://github.com/user-attachments/assets/59ffa4de-def1-4273-9659-f441389d873c"/>
+<img width="1584" height="396" alt="Abhishek Rana" src="https://github.com/user-attachments/assets/bd0291fd-d442-4a5e-bc07-d5e5840eec2e" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Android+Developer;Always+Learning+New+Technologies" />
