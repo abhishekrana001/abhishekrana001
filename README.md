@@ -1,51 +1,89 @@
-<img width="100%" alt="Red White and Black Corporate Virtual Assistant LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/59ffa4de-def1-4273-9659-f441389d873c" />
-
+<img width="100%" alt="Java Spring Boot Developer Banner" src="https://github.com/user-attachments/assets/59ffa4de-def1-4273-9659-f441389d873c"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Android+Developer;Kotlin+Learner;Firebase+Explorer;Building+Modern+Android+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
 </p>
 
 # Hi 👋, I'm Abhishek Rana
 
-## 🚀 Android Developer
+## 🚀 Java Backend Developer
 
-- 🌱 Currently learning Android Development
-- 💻 Building apps using Kotlin & Android Studio
-- 📱 Interested in Mobile App Development
-- 🚀 Exploring Firebase and APIs
+- 🌱 Currently learning **Spring Boot & Backend Development**
+- 💻 Building REST APIs using **Java, Spring Boot & MySQL**
+- 🔍 Practicing **Data Structures & Algorithms**
+- 🚀 Passionate about Backend Development and Problem Solving
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,androidstudio,github,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,git,github,postman,idea" />
 </p>
 
+### Languages
 - Java
+- SQL
+
+### Backend
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+
+### Database
+- MySQL
+
+### Tools
+- IntelliJ IDEA
+- Postman
+- Git
+- GitHub
+- Maven
+
+### Other
+- Data Structures & Algorithms (Java)
+
+---
+
+# 📂 Projects
+
+### 🧑‍💼 Employee Management System
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- CRUD REST APIs
+- DTO
+- Validation
+- Exception Handling
+- Pagination & Sorting
+
+### 📅 Event Management System
 - Kotlin
-- DSA (Data Structure And Algorithm)
+- Room Database
+- MVVM Architecture
 - Android Studio
-- XML
-- Firebase
-- Git & GitHub
 
 ---
 
-## 📂 Projects
-- Calculator App
-- Weather App
-- Notes App
-- Music Player App
-- Event Management App
+# 🎯 Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Microservices
+- Docker
 
 ---
 
-## 📫 Connect with me
+# 📫 Connect with me
+
 - GitHub: https://github.com/abhishekrana001
+- LinkedIn: (Add your LinkedIn URL)
 
-  ---
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrana001&theme=tokyonight" />
@@ -53,7 +91,7 @@
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekrana001&theme=tokyonight" />
