@@ -81,11 +81,16 @@
 
 # 📂 Projects
 
-### 🛒 E-Commerce Website
+### 💼 Job Portal
 - React.js
 - JavaScript
+- React Router
+- Search and Job Filtering
+- Job Details
+- Job Application Form
+- Saved Jobs
+- LocalStorage
 - Responsive UI
-- Product listing and cart functionality
 
 ### 🏠 Airbnb Clone
 - React.js
