@@ -200,7 +200,7 @@
 # 📫 Connect with Me
 
 - GitHub: [github.com/abhishekrana001](https://github.com/abhishekrana001)
-- LinkedIn: [linkedin.com/in/abhishek-rana-28872a294](https://www.linkedin.com/in/abhishekrana99813)
+- LinkedIn: [linkedin.com/in/abhishekrana99813](https://www.linkedin.com/in/abhishekrana99813)
 - Portfolio: [abhishekrana.in](https://abhishekrana.in)
 
 ---
